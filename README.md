@@ -1,6 +1,7 @@
 # jQuery.cloudGrid
 
-Licence: `MIT`.
+* Licence: `MIT`. 
+* [See Example](http://rawgithub.com/pinterest/cloudgrid/master/example/index.html)
 
 `jQuery.cloudGrid` is a lightweight [`jQuery`](http://jquery.com) plugin that positions elements within a grid.
 
