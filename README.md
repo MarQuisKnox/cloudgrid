@@ -63,7 +63,7 @@ $grid.cloudGrid({
 });
 ```
 
-Each item in the grid needs to have its dimensions (`grid-rows`, `grid-columns`) specified. You can either attach the number of columns and rows using data attributes (`data-grid-grows`, `data-grid-columns`) or attach them to the DOM element directly by using `[$.data](http://api.jquery.com/jQuery.data/)`.
+Each item in the grid needs to have its dimensions (`grid-rows`, `grid-columns`) specified. You can either attach the number of columns and rows using data attributes (`data-grid-rows`, `data-grid-columns`) or attach them to the DOM element directly by using `[$.data](http://api.jquery.com/jQuery.data/)`.
 
 
 ## Options
